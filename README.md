@@ -1,1 +1,2 @@
 # nosql-challenge
+Using nosql and a database in Mongo Client make several queries to return the specific data in order to answer a series of questions about restaurants in the UK and their Food Standards data. 
